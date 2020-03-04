@@ -1,1 +1,1 @@
-# cheatsheet-of-software-development-
+# cheatsheet-of-software-development
